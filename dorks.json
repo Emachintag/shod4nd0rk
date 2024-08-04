@@ -1,0 +1,402 @@
+[
+    {
+        "name": "Hadoop",
+        "dork": "port:50070"
+    },
+    {
+        "name": "MongoDB",
+        "dork": "product:MongoDB"
+    },
+    {
+        "name": "ElasticSearch",
+        "dork": "port:9200"
+    },
+    {
+        "name": "Redis",
+        "dork": "port:6379"
+    },
+    {
+        "name": "CouchDB",
+        "dork": "port:5984"
+    },
+    {
+        "name": "FTP",
+        "dork": "port:21"
+    },
+    {
+        "name": "Telnet",
+        "dork": "port:23"
+    },
+    {
+        "name": "SMB",
+        "dork": "port:445"
+    },
+    {
+        "name": "RDP",
+        "dork": "port:3389"
+    },
+    {
+        "name": "VNC",
+        "dork": "port:5900"
+    },
+    {
+        "name": "SNMP",
+        "dork": "port:161"
+    },
+    {
+        "name": "MSSQL",
+        "dork": "port:1433"
+    },
+    {
+        "name": "MySQL",
+        "dork": "port:3306"
+    },
+    {
+        "name": "PostgreSQL",
+        "dork": "port:5432"
+    },
+    {
+        "name": "Oracle DB",
+        "dork": "port:1521"
+    },
+    {
+        "name": "DB2",
+        "dork": "port:50000"
+    },
+    {
+        "name": "Jenkins",
+        "dork": "port:8080"
+    },
+    {
+        "name": "Docker",
+        "dork": "port:2375"
+    },
+    {
+        "name": "Kubernetes",
+        "dork": "port:6443"
+    },
+    {
+        "name": "Apache",
+        "dork": "port:80"
+    },
+    {
+        "name": "Nginx",
+        "dork": "port:443"
+    },
+    {
+        "name": "IIS",
+        "dork": "port:80"
+    },
+    {
+        "name": "HTTP",
+        "dork": "port:80"
+    },
+    {
+        "name": "HTTPS",
+        "dork": "port:443"
+    },
+    {
+        "name": "SSH",
+        "dork": "port:22"
+    },
+    {
+        "name": "POP3",
+        "dork": "port:110"
+    },
+    {
+        "name": "IMAP",
+        "dork": "port:143"
+    },
+    {
+        "name": "SMTP",
+        "dork": "port:25"
+    },
+    {
+        "name": "LDAP",
+        "dork": "port:389"
+    },
+    {
+        "name": "RADIUS",
+        "dork": "port:1812"
+    },
+    {
+        "name": "DICOM",
+        "dork": "port:104"
+    },
+    {
+        "name": "RTSP",
+        "dork": "port:554"
+    },
+    {
+        "name": "CCTV",
+        "dork": "port:37777"
+    },
+    {
+        "name": "SCADA",
+        "dork": "port:502"
+    },
+    {
+        "name": "PLC",
+        "dork": "port:102"
+    },
+    {
+        "name": "BACnet",
+        "dork": "port:47808"
+    },
+    {
+        "name": "Modbus",
+        "dork": "port:502"
+    },
+    {
+        "name": "Siemens S7",
+        "dork": "port:102"
+    },
+    {
+        "name": "Tridium",
+        "dork": "port:1911"
+    },
+    {
+        "name": "Rockwell",
+        "dork": "port:44818"
+    },
+    {
+        "name": "Ethernet/IP",
+        "dork": "port:44818"
+    },
+    {
+        "name": "Profinet",
+        "dork": "port:34964"
+    },
+    {
+        "name": "SIP",
+        "dork": "port:5060"
+    },
+    {
+        "name": "H.323",
+        "dork": "port:1720"
+    },
+    {
+        "name": "VoIP",
+        "dork": "port:5060"
+    },
+    {
+        "name": "Mitel",
+        "dork": "port:3998"
+    },
+    {
+        "name": "Asterisk",
+        "dork": "port:5038"
+    },
+    {
+        "name": "FreePBX",
+        "dork": "port:5060"
+    },
+    {
+        "name": "Elastix",
+        "dork": "port:5060"
+    },
+    {
+        "name": "Polycom",
+        "dork": "port:5070"
+    },
+    {
+        "name": "Yealink",
+        "dork": "port:5060"
+    },
+    {
+        "name": "Avaya",
+        "dork": "port:1720"
+    },
+    {
+        "name": "Cisco",
+        "dork": "port:2000"
+    },
+    {
+        "name": "Juniper",
+        "dork": "port:22"
+    },
+    {
+        "name": "Fortinet",
+        "dork": "port:541"
+    },
+    {
+        "name": "Palo Alto",
+        "dork": "port:443"
+    },
+    {
+        "name": "SonicWall",
+        "dork": "port:443"
+    },
+    {
+        "name": "Check Point",
+        "dork": "port:264"
+    },
+    {
+        "name": "Sophos",
+        "dork": "port:4444"
+    },
+    {
+        "name": "WatchGuard",
+        "dork": "port:4100"
+    },
+    {
+        "name": "Barracuda",
+        "dork": "port:8000"
+    },
+    {
+        "name": "F5",
+        "dork": "port:443"
+    },
+    {
+        "name": "Imperva",
+        "dork": "port:443"
+    },
+    {
+        "name": "Citrix",
+        "dork": "port:1494"
+    },
+    {
+        "name": "VMware",
+        "dork": "port:443"
+    },
+    {
+        "name": "Hyper-V",
+        "dork": "port:2179"
+    },
+    {
+        "name": "Xen",
+        "dork": "port:8006"
+    },
+    {
+        "name": "KVM",
+        "dork": "port:16509"
+    },
+    {
+        "name": "Proxmox",
+        "dork": "port:8006"
+    },
+    {
+        "name": "OpenStack",
+        "dork": "port:8774"
+    },
+    {
+        "name": "AWS",
+        "dork": "port:80"
+    },
+    {
+        "name": "Azure",
+        "dork": "port:443"
+    },
+    {
+        "name": "Google Cloud",
+        "dork": "port:443"
+    },
+    {
+        "name": "Alibaba Cloud",
+        "dork": "port:80"
+    },
+    {
+        "name": "IBM Cloud",
+        "dork": "port:443"
+    },
+    {
+        "name": "Oracle Cloud",
+        "dork": "port:443"
+    },
+    {
+        "name": "DigitalOcean",
+        "dork": "port:80"
+    },
+    {
+        "name": "Linode",
+        "dork": "port:80"
+    },
+    {
+        "name": "Heroku",
+        "dork": "port:443"
+    },
+    {
+        "name": "SAP",
+        "dork": "port:3299"
+    },
+    {
+        "name": "Salesforce",
+        "dork": "port:443"
+    },
+    {
+        "name": "Office 365",
+        "dork": "port:443"
+    },
+    {
+        "name": "G Suite",
+        "dork": "port:443"
+    },
+    {
+        "name": "Zoom",
+        "dork": "port:8801"
+    },
+    {
+        "name": "WebEx",
+        "dork": "port:443"
+    },
+    {
+        "name": "Slack",
+        "dork": "port:443"
+    },
+    {
+        "name": "Teams",
+        "dork": "port:443"
+    },
+    {
+        "name": "Jira",
+        "dork": "port:8080"
+    },
+    {
+        "name": "Confluence",
+        "dork": "port:8090"
+    },
+    {
+        "name": "Trello",
+        "dork": "port:443"
+    },
+    {
+        "name": "GitHub",
+        "dork": "port:22"
+    },
+    {
+        "name": "GitLab",
+        "dork": "port:22"
+    },
+    {
+        "name": "Bitbucket",
+        "dork": "port:22"
+    },
+    {
+        "name": "Docker Hub",
+        "dork": "port:443"
+    },
+    {
+        "name": "Quay",
+        "dork": "port:443"
+    },
+    {
+        "name": "Nexus",
+        "dork": "port:8081"
+    },
+    {
+        "name": "Artifactory",
+        "dork": "port:8081"
+    },
+    {
+        "name": "JFrog",
+        "dork": "port:8081"
+    },
+    {
+        "name": "SonarQube",
+        "dork": "port:9000"
+    },
+    {
+        "name": "Splunk",
+        "dork": "port:8000"
+    }
+]
