@@ -18,7 +18,7 @@ shod4nd0rk is a Python tool designed to manage and search Shodan dorks efficient
     ```
 3. **Install the required dependencies:**
     ```sh
-    pip install -r requirements.txt
+    pip install shodan colorama
     ```
 
 ## Usage
@@ -49,4 +49,3 @@ If you would like to contribute to this project, please fork the repository and 
 
 ## Contact
 For any questions or suggestions, please open an issue or contact the repository owner.
-
