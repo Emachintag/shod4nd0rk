@@ -10,7 +10,7 @@ A Python tool for managing and searching Shodan dorks, including adding, deletin
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/shod4nd0rk.git
+    git clone https://github.com/emachintag/shod4nd0rk.git
     ```
 2. Navigate to the project directory:
     ```sh
@@ -24,4 +24,4 @@ A Python tool for managing and searching Shodan dorks, including adding, deletin
 ## Usage
 Run the tool:
 ```sh
-python yourscriptname.py
+python shod4nd0rk.py
